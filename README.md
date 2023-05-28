@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+para crear un servidor local
+https://www.npmjs.com/package/http-server
+
+instalamos de manera 
+global npm install --global http-server
+ejecutamos el npm build del proyecto 
+por consola vamos ala ruta del dist nombre del proyecto en este caso base.
+ ejecutamos el http-server -o 
